@@ -1,0 +1,5 @@
+Ilosc mrowek: 50 procentowa ilosc b쿮du: 0.38461538461538464
+Ilosc mrowek: 100 procentowa ilosc b쿮du: 0.34615384615384615
+Ilosc mrowek: 150 procentowa ilosc b쿮du: 0.3076923076923077
+Ilosc mrowek: 200 procentowa ilosc b쿮du: 0.3076923076923077
+Ilosc mrowek: 250 procentowa ilosc b쿮du: 0.2692307692307693
